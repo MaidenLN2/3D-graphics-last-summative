@@ -22,6 +22,7 @@
     <ClCompile Include="camera.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="noise.cpp" />
+    <ClCompile Include="particle.cpp" />
     <ClCompile Include="ShaderLoader.cpp" />
     <ClCompile Include="Skybox.cpp" />
     <ClCompile Include="Terrain.cpp" />
@@ -29,6 +30,7 @@
   <ItemGroup>
     <ClInclude Include="camera.h" />
     <ClInclude Include="noise.h" />
+    <ClInclude Include="particle.h" />
     <ClInclude Include="ShaderLoader.h" />
     <ClInclude Include="Skybox.h" />
     <ClInclude Include="Terrain.h" />
